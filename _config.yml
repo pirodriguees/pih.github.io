@@ -11,9 +11,9 @@ title                    : "Vinicius Oliveira"
 title_separator          : "-"
 name                     : &name "Vinicius Rodrigues de Oliveira"
 description              : &description "Estudante de Ciência da Computação apaixonado por tecnologia"
-url                      : https://piholiveira.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://vinicius-deoliveira.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "piholiveira.github.io"
+repository               : "vinicius-deoliveira.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "piholiveira"
+  github           : "vinicius-deoliveira"
   google_plus      :
   keybase          :
   instagram        : "piholiveira_"
